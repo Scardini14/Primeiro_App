@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
                 i.putExtra("texto", textoDigitado);
 
-                startActivity(i);
+                startActivity(i); //oiii
             }
         });
 
